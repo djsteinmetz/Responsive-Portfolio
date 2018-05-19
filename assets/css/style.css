@@ -19,19 +19,23 @@ header {
     color: #dddddd;
 }
 
-#navAbout {
+.current {
+    color: #4aaaa5!Important;
+}
+
+.navAbout {
     padding-right: 10px;
     padding-left: 10px;
     border-right: 1px solid #eeeeee;
 }
 
-#navPortfolio {
+.navPortfolio {
     padding-right: 10px;
     padding-left: 10px;
     border-right: 1px solid #eeeeee;
 }
 
-#navContact {
+.navContact {
     padding-left: 10px;
 }
 
